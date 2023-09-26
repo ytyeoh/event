@@ -10,6 +10,9 @@ background and introduction....
 ### topic & content
 dscribtion of topic and content be sharing.
 
+### Duration
+estimaet time 2-3 hour?
+
 ### slide
 requiere slide on that day?
 
