@@ -7,8 +7,9 @@
 
 ## registration 
 ### fee
-	1.	RM10 for member 
-	2.	RM30 for non member 
+1. RM10 for member 
+2. RM30 for non member 
+All fee will go to PCCC YES account. 
 ### form
 Google form prepare by pccc yes secretary.
 
@@ -33,12 +34,12 @@ dscribtion of topic and content be sharing.
 
 ### Duration
 estimaet time 3 hour in 2 session. Break in middle.
-	⁃	Topic 1
-	⁃	Topic 2
-	⁃	Break 
-	⁃	Topic 3
-	⁃	Q&A
-	⁃	End
+- Topic 1
+- Topic 2
+- Break 
+- Topic 3
+- Q&A
+- End
 
 
 ### slide
@@ -62,8 +63,8 @@ Self development
 ### Food
 Prepare by Ines team, advise provide in finger food or snack format.
 ### beverage
-	⁃	Mineral water will be provide 
-	⁃	Coffee can be arrange upon request
+- Mineral water will be provide 
+- Coffee can be arrange upon request estimate fee below 100.
 
 ## marketing material
 ### poster
@@ -73,18 +74,18 @@ Poster by Ines team and seek approve from pccc yes by Tatt.
 Prepared by ines team. Suggest in mandarin.
 
 ### channel
-	⁃	pccc yes Fb page
-	⁃	Whatapps to member 
+- pccc yes Fb page
+- Whatapps to member 
 
 ## man power
 ### Ines side
-	1.	Emcee - 1
-	2.	Registration for data collection , disturb food  and provide info of company to people - 2/3++
+1. Emcee - 1
+2. Registration for data collection , disturb food  and provide info of company to people - 2/3++
 
 ### pccc yes
-	1.	Pccc yes secretary for PA system, registration, support - 2
-	2.	emcee - 1
-	3.	Support on Q&A, ceremonies and others - 2/3
+1. Pccc yes secretary for PA system, registration, support - 2
+2. emcee - 1
+3. Support on Q&A, ceremonies and others - 2/3
 
 [excel file for submit to pccc](https://github.com/ytyeoh/event/files/12723802/Wonder.Web3.xlsx)
  
