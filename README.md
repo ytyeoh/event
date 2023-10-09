@@ -4,6 +4,8 @@
 - Time: 2pm-5pm
 - venue : pccc tkp hall
 
+*date time venue confirm*
+
 
 ## registration 
 ### fee
@@ -11,7 +13,10 @@
 2. RM30 for non member 
 All fee will go to PCCC YES account. 
 ### form
-Google form prepare by pccc yes secretary.
+~Google form prepare by pccc yes secretary.~
+
+Can be prepare by ourselves just need provide PCCC YES secretary access to view status , check payment proof and output in excel format.
+
 
 ### payment 
 All payment will bank in to pccc yes account and verify by pccc yes secretary.
@@ -46,7 +51,7 @@ estimaet time 3 hour in 2 session. Break in middle.
 Prepare and control by Ines team
 
 
-### preesent method
+### present method
 talk solo or in interview method?
 
 
@@ -62,9 +67,10 @@ Self development
 ## break
 ### Food
 Prepare by Ines team, advise provide in finger food or snack format.
+
 ### beverage
 - Mineral water will be provide 
-- Coffee can be arrange upon request estimate fee below 100.
+- Coffee can be arrange upon request estimate fee ~20 for 50 ppl in coffee bag (Kopi O)quality.
 
 ## marketing material
 ### poster
