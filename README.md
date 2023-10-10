@@ -90,8 +90,9 @@ Prepared by ines team. Suggest in mandarin.
 
 ### pccc yes
 1. Pccc yes secretary for PA system, registration, support - 2
-2. emcee - 1
+2. emcee - 1 (Mark Tan陈凯业)
 3. Support on Q&A, ceremonies and others - 2/3
+- Jonathan
 
 [excel file for submit to pccc](https://github.com/ytyeoh/event/files/12723802/Wonder.Web3.xlsx)
  
