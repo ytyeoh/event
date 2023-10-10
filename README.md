@@ -26,7 +26,7 @@ Prepare door gift or lucky draw to collect data from participants.
 
 ## ceremonies
 ### 1st  emcee
-For opening event and gift souvenir by PCCC YES TMC people. 
+For opening event and gift souvenir by Mark Tan陈凯业.
 
 ### 2nd Emcee
 For the rest of event by Ines team.
