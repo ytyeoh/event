@@ -1,4 +1,4 @@
-# Web 3.0 sharing
+# Web3会员经济：零售业的全域营销策略
 ## Details
 - Date: 31/10/2023
 - Time: 2pm-5pm
