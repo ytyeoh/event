@@ -24,6 +24,20 @@ All payment will bank in to pccc yes account and verify by pccc yes secretary.
 ## data collection 
 Prepare door gift or lucky draw to collect data from participants.
 
+## time table
+||Activity  | Time |
+| ------------- | ------------- |
+| Regostration  | 1.30pm  |
+| Openning speech Souvenier gift by PCCC Yes  Vice President Mr Goh Han Guan  | 2.00pm |
+| Group photo  | 2.15pm |
+| Season 1  | 2.20pm |
+| Tea break  | 3.20pm |
+| Season 2  | 3.50pm |
+| Season 3  | 4.20pm |
+| Wrap up and networking  | 4.50pm |
+| End  | 5.00pm |
+
+
 ## ceremonies
 ### 1st  emcee
 For opening event and gift souvenir by Mark Tan陈凯业.
@@ -60,7 +74,7 @@ talk solo or in interview method?
 2. web 3.0 question
 
 ## vip guest
-Will invite pccc yes exco to give souvenir 
+Mr Goh Han Guan will present pccc yes exco to give souvenir 
 
 ## coperate bureau 
 Self development
