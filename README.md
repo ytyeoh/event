@@ -25,7 +25,7 @@ All payment will bank in to pccc yes account and verify by pccc yes secretary.
 Prepare door gift or lucky draw to collect data from participants.
 
 ## time table
-||Activity  | Time |
+| Activity  | Time |
 | ------------- | ------------- |
 | Regostration  | 1.30pm  |
 | Openning speech Souvenier gift by PCCC Yes  Vice President Mr Goh Han Guan  | 2.00pm |
